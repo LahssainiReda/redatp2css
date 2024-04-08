@@ -1,0 +1,105 @@
+
+.white-padding {
+    padding: 20px; 
+    background-color:white ;
+}
+
+
+.gray-padding {
+    padding: 40px; 
+    background-color: gainsboro; 
+}
+
+.yellow-padding {
+    padding: 10px; 
+    background-color: #fcfcea ;  
+}
+
+body {
+    font-family: Arial ;
+    margin: 20px ;
+    padding: 20px ;
+    border: 20px ;
+   
+}
+
+header {
+    color: whitesmoke;
+    font-family:Georgia;
+    text-align:center ;
+    padding:40px;
+    background-color: #b71236;
+    
+}
+
+main {
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: normal ;
+    
+}
+
+.separator {
+   
+    width: 900px;
+    padding: 1px ; 
+    background-color: #b71236
+}
+
+.section {
+    padding:10px; ;  
+}
+
+footer  {
+    text-decoration:dashed ; 
+    color:gray ; 
+    background-color: white;
+    border-left: 50px solid #c7ccbd;
+    border-right: 50px solid #c7ccbd;
+    padding: 10px;
+    text-align: right;
+
+}
+
+.footer-content {
+    max-width:  800px; ; 
+    margin: 0 auto; 
+    padding: 5px;
+    color: black;
+    background-color:white ;
+    font-family: Arial;
+}
+
+.footer a {
+    text-decoration: double ; /* Soulignez le lien */
+    color:gray ; /* Couleur du texte du lien */
+}
+
+.centered-image {
+    border:#b71236;
+    max-width:  500px; ; /* Pour que l'image ne dépasse pas la largeur du cadre */
+    padding: auto;
+    height: 250px;
+    width: 400px;
+    margin: center;
+    border: solid black;
+    background-color: white
+}
+
+.centered-square {
+    margin: auto;
+    text-align: center ;
+    padding: 20px;
+    background-color: white; 
+    border: solid black; 
+    width:400px;
+    
+    
+}
+
+.gray-underline {
+    color:gray ; 
+    text-decoration:underline; 
+    padding: 2px;
+}
+
